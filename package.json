@@ -1,6 +1,6 @@
 {
   "name": "next-linaria-babel",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Next.js plugin for Linaria CSS in JS",
   "license": "MIT",
   "repository": "tinialabs/next-linaria-babel",
