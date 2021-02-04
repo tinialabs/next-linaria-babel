@@ -14,7 +14,7 @@
   "files": [
     "dist",
     "index.js",
-    "babel.js"
+    "preset.js"
   ],
   "peerDependencies": {
     "webpack": "^4.0.0 || ^5.0.0"
